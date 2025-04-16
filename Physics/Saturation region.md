@@ -1,0 +1,1 @@
+- When both terminals are in forward bias ?
