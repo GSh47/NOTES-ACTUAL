@@ -1,0 +1,1 @@
+The Fermi Dirac Distribution Function gives the probability that at temperature T K, a level with energy E is occupied by a free electron .
